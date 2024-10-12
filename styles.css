@@ -1,0 +1,7 @@
+div.order_data_column:nth-child(2) {
+    display: none !important
+}
+
+div.order_data_column:nth-child(3) {
+    display: none !important
+}
