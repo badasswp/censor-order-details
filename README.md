@@ -1,2 +1,2 @@
 # censor-order-details
-Hide sensitive customer order details in WooCommerce.
+Hide sensitive order details in WooCommerce.
