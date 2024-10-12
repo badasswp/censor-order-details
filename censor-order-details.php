@@ -30,7 +30,7 @@ add_action( 'admin_enqueue_scripts', __NAMESPACE__ . '\censor_order_details' );
  * @wp-hook 'admin_enqueue_scripts'
  */
 function censor_order_details(): void {
-	if ( current_user_can( 'vendor' ) ) {
+	if ( ! current_user_can( 'administrator' ) ) {
 		wp_enqueue_style(
 			'censor-order-details',
 			trailingslashit( plugin_dir_url( __FILE__ ) ) . 'styles.css',
