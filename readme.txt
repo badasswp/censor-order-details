@@ -18,7 +18,7 @@ Hide sensitive order details in WooCommerce.
 
 == Description ==
 
-TBD
+This plugin helps you hide sensitive custom data found in the WooCommerce Admin orders page from prying eyes.
 
 == Changelog ==
 
