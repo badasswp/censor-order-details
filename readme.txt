@@ -22,6 +22,10 @@ This plugin helps you hide sensitive custom data found in the WooCommerce Admin 
 
 == Changelog ==
 
+= 1.0.1 =
+* Update README description for plugin.
+* Tested up to WP 6.6.2.
+
 = 1.0.0 =
 * Ability to censor WooCommerce order details.
 * Tested up to WP 6.6.2.
