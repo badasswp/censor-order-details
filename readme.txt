@@ -18,7 +18,7 @@ Hide sensitive order details in WooCommerce.
 
 == Description ==
 
-This plugin helps you hide sensitive custom data found in the WooCommerce Admin orders page from prying eyes.
+This plugin helps you hide sensitive custom data found in the WooCommerce Admin orders page from prying eyes. Please note that it only visually hides the Order details information via custom CSS styling and does not tamper with the PHP code functionality of the page, the order details can still be accessed programatically via the page code.
 
 == Changelog ==
 
