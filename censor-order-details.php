@@ -3,7 +3,7 @@
  * Plugin Name: Censor Order Details
  * Plugin URI:  https://github.com/badasswp/censor-order-details
  * Description: Hide sensitive customer order details in WooCommerce.
- * Version:     1.0.2
+ * Version:     1.0.3
  * Author:      badasswp
  * Author URI:  https://github.com/badasswp
  * License:     GPL v2 or later
