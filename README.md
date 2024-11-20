@@ -17,5 +17,8 @@ You can also get the latest version from any of our [release tags](https://githu
 
 ## Why Censor Order Details?
 
-This plugin helps you hide sensitive custom data found in the WooCommerce Admin orders page from prying eyes. __Please note__ that it only visually hides the Order details information via custom CSS styling and does not tamper with the PHP code functionality of the page, the order details can still be accessed programatically via the page code.
+This plugin helps you __hide sensitive customer data__ found in the WooCommerce Admin orders page from prying eyes.
 
+Sometimes, customer data can contain sensitive information which you do not want every user to see. This is where __Censor Order Details__ plugin comes in. It simply __hides__ this customer data from prying eyes, so that they are not accessible to users with malicious intent.
+
+__Please note__ that this plugin only visually hides the Order details information via custom CSS styling and does not tamper with the PHP code functionality of the page, the order details can still be accessed programatically via the page code.

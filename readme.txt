@@ -18,7 +18,24 @@ Hide sensitive order details in WooCommerce.
 
 == Description ==
 
-This plugin helps you hide sensitive custom data found in the WooCommerce Admin orders page from prying eyes. Please note that it only visually hides the Order details information via custom CSS styling and does not tamper with the PHP code functionality of the page, the order details can still be accessed programatically via the page code.
+This plugin helps you <strong>hide sensitive customer data</strong> found in the WooCommerce Admin orders page from prying eyes.
+
+Please note that it only visually hides the Order details information via custom CSS styling and does not tamper with the PHP code functionality of the page, the order details can still be accessed programatically via the page code.
+
+= ✨ Getting Started =
+
+Just install and head off to your WooCommerce Admin page. Make sure you are logged in with a <strong>non-adminstrator</strong> role. You should now see that the order details are <strong>hidden</strong> from users who are not Administrators.
+
+You can get a taste of how this works, by using the [demo](https://tastewp.com/create/NMS/8.0/6.7.0/censor-order-details/twentytwentythree?ni=true&origin=wp) link.
+
+= ⚡ Why Censor Order Details =
+
+Sometimes, customer data can contain sensitive information which you do not want every user to see. This is where <strong>Censor Order Details</strong> plugin comes in. It simply <strong>hides</strong> this customer data from prying eyes, so that they are not accessible to users with malicious intent.
+
+== Screenshots ==
+
+1. Before - Before the plugin is applied.
+2. After - After the plugin is applied.
 
 == Changelog ==
 
