@@ -39,6 +39,11 @@ Sometimes, customer data can contain sensitive information which you do not want
 
 == Changelog ==
 
+= 1.0.2 =
+* Add screenshot images.
+* Bump up plugin version.
+* Tested up to WP 6.7.0.
+
 = 1.0.1 =
 * Update README description for plugin.
 * Tested up to WP 6.6.2.
