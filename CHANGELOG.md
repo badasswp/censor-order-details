@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+* Update README description.
+* Tested up to WP 6.7.2.
+
 ## 1.0.3
 * Deploy missing screenshots.
 * Tested up to WP 6.7.0.

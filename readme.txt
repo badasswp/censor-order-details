@@ -8,7 +8,7 @@ Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Hide sensitive customer order details in WooCommerce Admin page.
+Hide sensitive customer order details in WooCommerce Admin page. Prevent order info from being visible to users who are not strictly Administrators!
 
 == Installation ==
 
@@ -24,7 +24,7 @@ Please note that it only visually hides the Order details information via custom
 
 = ✨ Getting Started =
 
-Just install and head off to your WooCommerce Admin page. Make sure you are logged in with a <strong>non-adminstrator</strong> role. You should now see that the order details are <strong>hidden</strong> from users who are not Administrators.
+Just install and head off to your WooCommerce Admin page. Make sure you are logged in with a <strong>non-adminstrator</strong> role <strong>for e.g. Shop Manager</strong>. You should now see that the order details are <strong>hidden</strong> from users who are not strictly Administrators.
 
 You can get a taste of how this works, by using the [demo](https://tastewp.com/create/NMS/8.0/6.7.0/censor-order-details/twentytwentythree?ni=true&origin=wp) link.
 
@@ -38,6 +38,10 @@ Sometimes, customer data can contain sensitive information which you do not want
 2. After - After the plugin is applied.
 
 == Changelog ==
+
+= 1.0.4 =
+* Update README description.
+* Tested up to WP 6.7.2.
 
 = 1.0.3 =
 * Deploy missing screenshots.
