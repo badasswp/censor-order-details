@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.5
+* Bump up plugin version.
+* Tested up to WP 6.8
+* Update README docs.
+
 ## 1.0.4
 * Update README description.
 * Tested up to WP 6.7.2.
