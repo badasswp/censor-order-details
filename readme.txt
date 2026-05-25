@@ -39,9 +39,13 @@ Sometimes, customer data can contain sensitive information which you do not want
 
 == Changelog ==
 
+= 1.1.0 =
+* Chore: Update CI/CD pipeline.
+* Tested up to WP 7.0.
+
 = 1.0.5 =
 * Bump up plugin version.
-* Tested up to WP 6.8
+* Tested up to WP 6.8.
 * Update README docs.
 
 = 1.0.4 =
