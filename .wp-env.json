@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    ".",
+    "./vendor/woocommerce"
+  ],
+  "phpVersion": "8.2",
+  "port": 6200,
+  "testsPort": 6201,
+  "config": {
+    "WP_SITEURL": "http://censor-order-details.localhost",
+    "WP_HOME": "http://censor-order-details.localhost"
+  }
+}
