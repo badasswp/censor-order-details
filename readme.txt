@@ -2,8 +2,8 @@
 Contributors: badasswp
 Tags: censor, customer, order, details, woocommerce.
 Requires at least: 4.0
-Tested up to: 6.8
-Stable tag: 1.0.5
+Tested up to: 7.0
+Stable tag: 1.1.0
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -39,9 +39,13 @@ Sometimes, customer data can contain sensitive information which you do not want
 
 == Changelog ==
 
+= 1.1.0 =
+* Chore: Update CI/CD pipeline.
+* Tested up to WP 7.0.
+
 = 1.0.5 =
 * Bump up plugin version.
-* Tested up to WP 6.8
+* Tested up to WP 6.8.
 * Update README docs.
 
 = 1.0.4 =
